@@ -1,2 +1,0 @@
-# CreditCard-FraudDetection
-Little Project
